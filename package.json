@@ -1,0 +1,23 @@
+{
+  "name": "faniice",
+  "version": "0.0.1",
+  "description": "Experimental website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiggan/faniice.git"
+  },
+  "author": "stiggan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stiggan/faniice/issues"
+  },
+  "homepage": "https://github.com/stiggan/faniice#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
